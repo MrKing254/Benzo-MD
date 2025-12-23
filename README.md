@@ -3,9 +3,7 @@
 <div align="center">
 
 <!-- ANIMATED TITLE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=100&lines=Benzo-MD+WhatsApp+Bot;Multi-Device+Baileys+Powered;Coded+by+Amon" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=100&lines=Benzo-MD+WhatsApp+Bot;Multi-Device+Baileys+Powered;Made+in+Kenya+🇰🇪+by+Amon" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -37,11 +35,24 @@
 
 <br/>
 
+<!-- CONTACT BADGES -->
+<div>
+  <a href="https://whatsapp.com/channel/0029VbBaJvI7IUYbtCeaPh0I" target="_blank">
+    <img src="https://img.shields.io/badge/📢_WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
+  </a>
+  <a href="https://wa.me/254759006509" target="_blank">
+    <img src="https://img.shields.io/badge/💬_Contact_Developer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact WhatsApp" />
+  </a>
+</div>
+
+<br/>
+
 <!-- PROFILE BADGES -->
 <img src="https://img.shields.io/badge/Developer-Amon-8A2BE2?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/GitHub-MrKing254-FF6B6B?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/Multi_Device-Enabled-FFA500?style=flat-square&logo=android" />
 <img src="https://img.shields.io/badge/License-MIT-FFD700?style=flat-square&logo=opensourceinitiative" />
+<img src="https://img.shields.io/badge/Made_in-Kenya-000000?style=flat-square&logo=github&logoColor=green&labelColor=black&color=red" />
 
 </div>
 
